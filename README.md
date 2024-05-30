@@ -2,7 +2,7 @@
 
 ## Proje Açıklaması
 
-Bu proje, Flutter ve Firebase kullanılarak oluşturulmuş bir E-Ticaret yönetim panelidir. Yönetim paneli, ürünleri yönetme, siparişleri izleme ve müşteri bilgilerini görüntüleme gibi işlemleri gerçekleştirmek için kullanılır.
+Bu proje, Flutter ve Firebase kullanılarak oluşturulmuş bir E-Ticaret yönetim panelidir. Yönetim paneli, ürünleri yönetme müşteri bilgilerini görüntüleme gibi işlemleri gerçekleştirmek için kullanılır.
 
 ## Özellikler
 
