@@ -7,11 +7,9 @@ Bu proje, Flutter ve Firebase kullanılarak oluşturulmuş bir E-Ticaret yöneti
 ## Özellikler
 
 - Ürün ekleme, güncelleme ve silme
-- Siparişleri izleme ve yönetme
 - Müşteri bilgilerini görüntüleme
 - Firebase Authentication ile güvenli giriş
 - Firebase Firestore ile gerçek zamanlı veri yönetimi
-- Responsive tasarım
 
 
 ## Ekran Görüntüleri
